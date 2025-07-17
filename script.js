@@ -39,6 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { src: 'images/navratri.jpg', caption: 'Navratri', category: 'festivals' },
         { src: 'images/baisakhi.jpg', caption: 'baisakhi', category: 'festivals' },
         { src: 'images/janmashtami1.jpg', caption: 'Janmashtami', category: 'festivals' },
+        { src: 'images/ganesh chaturthi1.jpg', caption: 'Ganesh Chaturthi', category: 'festivals' },
         { src: 'images/mountain trekking.jpg', caption: 'Mountain Trekking', category: 'travel' },
         { src: 'images/desert safari1.jpg', caption: 'Desert Safari', category: 'travel' },
         { src: 'images/jungle expedition1.jpg', caption: 'Jungle expedition', category: 'travel' },
